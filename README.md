@@ -49,13 +49,11 @@ Oganesson is released under MIT license and free to use.
 ## Contribute
 Changes and improvements are more than welcome! Feel free to fork and open a pull request.
 
-  [![Donate](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/kitabkalam/25usd)
-
 ## EXTRA INFO: ABOUT THREES 
 ### Threes Tiny Stats
 
 <p align="center">
-  <img src="http://cdn2.sbnation.com/assets/4127853/threes-infographic_960.png" alt="Screenshot"/>
+  <img src="https://cdn2.sbnation.com/assets/4127853/threes-infographic_960.png" alt="Screenshot"/>
 </p>
 
 Man, the highest record in Threes is 832K. I never reached 6144 anyway.
